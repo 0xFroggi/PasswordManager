@@ -20,3 +20,10 @@ I set up:
 - **Integration**: Supports integration with various tools and services via plugins and APIs.
 - **Browser Extension**: Available for major browsers to autofill passwords and manage credentials easily.
 - **Team Collaboration**: Designed for teams to share passwords securely and collaborate on access management.
+
+## 1. Deploying Cloud Based Passbolt Instance
+
+- Starting by navigating to the official Passbolt website to explore available deployment options for different environments.
+- Choosing the AWS deployment option to leverage Amazon Web Services for hosting Passbolt securely and reliably.
+- Passbolt offers an Amazon Machine Image (AMI) on the AWS Marketplace. This pre-configured server image simplifies the deployment process, ensuring you have all necessary components ready to go.
+![Passbolt_Download](https://github.com/0xFroggi/PasswordManager/blob/main/images/passbolt_aws_download.png?raw=true)
